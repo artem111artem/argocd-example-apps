@@ -5,8 +5,7 @@ This repository contains example applications for demoing ArgoCD functionality. 
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
 to explore ArgoCD and GitOps!
 dfsfsdfddsf
-dfsfdsf
-sfsfs
+ 
 | Application | Description |
 |-------------|-------------|
 | [guestbook](guestbook/) | A hello word guestbook app as plain YAML |
