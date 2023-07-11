@@ -1,7 +1,7 @@
 # ArgoCD Example Apps
 
 
-
+   
 This repository contains example applications for demoing ArgoCD functionality. Feel free
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
 to explore ArgoCD and GitOps!
@@ -10,7 +10,7 @@ to explore ArgoCD and GitOps!
 |-------------|-------------|
 | [guestbook](guestbook/) | A hello word guestbook app as plain YAML |
 | [ksonnet-guestbook](ksonnet-guestbook/) | The guestbook app as a ksonnet app |
-| [helm-guestbook](helm-guestbook/) | The guestbook app as a Helm chart |
+| [helm-guestbook](helm-guestbook/) | The guestbook app as a Helm chart |    
 | [jsonnet-guestbook](jsonnet-guestbook/) | The guestbook app as a raw jsonnet |
 | [jsonnet-guestbook-tla](jsonnet-guestbook-tla/) | The guestbook app as a raw jsonnet with support for top level arguments |
 | [kustomize-guestbook](kustomize-guestbook/) | The guestbook app as a Kustomize 2 app |
