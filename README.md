@@ -1,12 +1,11 @@
 # ArgoCD Example Apps
 
 
-    sds,mdssadads
 This repository contains example applications for demoing ArgoCD functionality. Feel free
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
 to explore ArgoCD and GitOps!
 
-| Application | Description |sdadasd
+| Application | Description |
 |-------------|-------------|
 | [guestbook](guestbook/) | A hello word guestbook app as plain YAML |
 | [ksonnet-guestbook](ksonnet-guestbook/) | The guestbook app as a ksonnet app |
