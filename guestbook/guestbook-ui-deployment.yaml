@@ -1,5 +1,5 @@
-capiVersion: apps/v1
-kind: Deployment
+apiVersion: apps/v1
+kind: Deploymentj
 metadata:
   name: guestbook-ui
 spec:
