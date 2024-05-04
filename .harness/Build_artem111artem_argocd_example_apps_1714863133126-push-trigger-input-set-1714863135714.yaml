@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_artem111artem_argocd_example_apps_1714863133126-push-trigger-input-set
+  identifier: Build_artem111artem_argocd_example_apps_1714863133126pushtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: default_project
+  pipeline:
+    identifier: Build_artem111artem_argocd_example_apps_1714863133126
+    properties:
+      ci:
+        codebase:
+          build:
+            type: branch
+            spec:
+              branch: <+trigger.branch>
